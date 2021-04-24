@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Teal Larson 👋
+
+<img src="https://img.shields.io/twitter/follow/tealdoestech?style=social">
+
+I'm a full stack engineer workig primarily with NodeJS/Typescript. I enjoy writing articles and tutorials based on problems I've solved throughout my journey.  Read more on my [DEV Community blog](http://www.dev.to/tealdoestech) or find my on [Twitter](http://www.twitter.com/tealdoestech) or [Instagram](http://www.instagram.com/tealdoestech).
+
 
 <!--
 **tealjulia/tealjulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
