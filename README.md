@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/twitter/follow/tealdoestech?style=social">
 
-I'm a full stack engineer workig primarily with NodeJS/Typescript. I enjoy writing articles and tutorials based on problems I've solved throughout my journey.  Read more on my [DEV Community blog](http://www.dev.to/tealdoestech) or find my on [Twitter](http://www.twitter.com/tealdoestech) or [Instagram](http://www.instagram.com/tealdoestech).
+I'm a full stack engineer workig primarily with NodeJS/Typescript. I enjoy writing articles and tutorials based on problems I've solved throughout my journey.  Read more on my [DEV Community blog](http://www.dev.to/tealdoestech) or find me on [Twitter](http://www.twitter.com/tealdoestech) or [Instagram](http://www.instagram.com/tealdoestech).
 
 
 <!--
