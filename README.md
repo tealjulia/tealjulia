@@ -17,4 +17,3 @@ I'm a full stack engineer working primarily with NodeJS/Typescript. I enjoy solv
 
 ### If I'm not coding I'm probably:<br />
  🚴🏼 🏔 📚 ☕️ <br />
-<sup>(Why yes, I am from the PNW)</sup> 
