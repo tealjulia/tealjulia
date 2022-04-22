@@ -8,7 +8,5 @@
 
 <img src="https://github.com/tealjulia/tealjulia/blob/main/Image.png" width="250">
 
-I'm a full stack engineer currently working the most with NodeJS/Typescript, NextJS, a variety of flavors of SQL, and Jest and Playwright test frameworks. I enjoy solving real life problems with my code & sharing about the lessons I learn along the way.  
-
 If my nose isn't in a computer, it's probably in a book (check out my forever-WIP [book list](https://github.com/tealjulia/book-list)!).  If it isn't there, I'm on a bike ride or a hike. 
 
