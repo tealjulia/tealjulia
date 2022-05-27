@@ -1,4 +1,4 @@
-### Hi there, I'm Teal Larson (She/her) 👋
+### Hi there, I'm Teal Larson 👋
 
 ### Check me out on:
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](http://www.dev.to/tealdoestech)
